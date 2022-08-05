@@ -274,3 +274,10 @@ TSWLatexianTemp*
 
 # Makeindex log files
 *.lpz
+
+# SCons Database
+.sconsign.dblite
+
+# Build and Distribution folders
+build
+dist
